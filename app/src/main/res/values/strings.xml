@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ordenamiento</string>
+    <string name="instruction">Ingresa los números que quieres ordenar</string>
+    <string name="add">Añadir</string>
+    <string name="order">Ordenar</string>
+    <string name="empty">Vaciar lista</string>
+    <string name="add_error">Número inválido</string>
+    <string name="empty_error">Ingresa al menos un número</string>
+</resources>
